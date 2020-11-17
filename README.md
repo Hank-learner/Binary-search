@@ -9,7 +9,7 @@ code developed in linux python 3
 ### setup env
 
 install virualenv:
-`pip3 install virtualenv
+`pip3 install virtualenv`
 
 create env:
 `virtualenv binarySearch`
